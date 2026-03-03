@@ -11,7 +11,7 @@ With over 15+ years in the software industry, I have navigated the full evolutio
 [![Python](https://img.shields.io/badge/Python-✓-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-✓-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-✓-black?style=flat-square&logo=openai)](https://openai.com/)
-[![LiteLLM](https://img.shields.io/badge/LiteLLM-✓-orange?style=flat-square&logo=lightning)](https://github.com/litellm) 
+[![LiteLLM](https://img.shields.io/badge/LiteLLM-✓-orange?style=flat-square&logo=lightning)](https://docs.litellm.ai/docs/simple_proxy) 
 
 ### ⚙️ DevOps / Deployment
 [![Docker](https://img.shields.io/badge/Docker-✓-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
