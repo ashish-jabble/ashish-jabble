@@ -5,6 +5,8 @@ I have been a core contributor to [Fledge](https://github.com/fledge-iot/fledge/
 
 With over 15+ years in the software industry, I have navigated the full evolution of modern development—from the early days of native iOS mobile applications to architecting complex, open-source Industrial IoT (IIoT) platforms.  My focus is on building Python-based solutions and robust DevOps pipelines that ensure industrial data is reliable, secure, and scalable.
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashish-jabble&theme=radical)
+
 ## 🛠 Tech & Skills
 
 ### 🤖 Backend & AI
