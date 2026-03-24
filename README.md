@@ -1,4 +1,19 @@
-## Hi 👋
+## Hi, I'm Ashish Jabble (AJ) 👋
+
+<h3 align="center">🧑‍💻 Software Engineer | 🛠️🌍 Open Source Contributor </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Open+Source+Contributor&center=true&width=500&height=50">
+</p>
+
+<!-- 🎯 Typing Animation -->
+<!-- https://komarev.com/ghpvc/?username=ashish-jabble&color=green&style=flat -->
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashish-jabble.ashish-jabble" />
+</p>
+
+## 👨‍💻 About Me
 
 I am a programmer and I develop softwares. In the last years I specialized myself as Python Developer & DevOps Architect | IIoT Specialist.
 I have been a core contributor to [Fledge](https://github.com/fledge-iot/fledge/commits/develop/?author=ashish-jabble) (formerly [FogLAMP](https://github.com/foglamp/FogLAMP/graphs/contributors))], where I bridge the gap between "the edge" and "the cloud."
@@ -6,6 +21,13 @@ I have been a core contributor to [Fledge](https://github.com/fledge-iot/fledge/
 With over 15+ years in the software industry, I have navigated the full evolution of modern development—from the early days of native iOS mobile applications to architecting complex, open-source Industrial IoT (IIoT) platforms.  My focus is on building Python-based solutions and robust DevOps pipelines that ensure industrial data is reliable, secure, and scalable.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ashish-jabble&theme=radical)
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-jabble&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 🛠 Tech & Skills
 
