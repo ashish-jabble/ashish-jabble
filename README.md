@@ -1,33 +1,14 @@
 ## Hi, I'm Ashish Jabble (AJ) 👋
 
-<h3 align="center">🧑‍💻 Software Engineer | 🛠️🌍 Open Source Contributor </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Open+Source+Contributor&center=true&width=500&height=50">
-</p>
-
-<!-- 🎯 Typing Animation -->
-<!-- https://komarev.com/ghpvc/?username=ashish-jabble&color=green&style=flat -->
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashish-jabble.ashish-jabble" />
-</p>
+<h3 align="center">🧑‍💻 Software Engineer | 🏭 Fledge / IIoT Specialist | 🛠️ Open Source Contributor</h3>
 
 ## 👨‍💻 About Me
 
-I am a programmer and I develop softwares. In the last years I specialized myself as Python Developer & DevOps Architect | IIoT Specialist.
-I have been a core contributor to [Fledge](https://github.com/fledge-iot/fledge/commits/develop/?author=ashish-jabble) (formerly [FogLAMP](https://github.com/foglamp/FogLAMP/graphs/contributors))], where I bridge the gap between "the edge" and "the cloud."
+Software engineer with 15+ years across the stack — early-days native iOS, Python services, DevOps pipelines, and open-source Industrial IoT.
 
-With over 15+ years in the software industry, I have navigated the full evolution of modern development—from the early days of native iOS mobile applications to architecting complex, open-source Industrial IoT (IIoT) platforms.  My focus is on building Python-based solutions and robust DevOps pipelines that ensure industrial data is reliable, secure, and scalable.
+Long-time core contributor to [Fledge](https://github.com/fledge-iot/fledge/commits/develop/?author=ashish-jabble) (formerly [FogLAMP](https://github.com/foglamp/FogLAMP/graphs/contributors)) — bridging the edge and the cloud, with a focus on making industrial data reliable, secure, and scalable.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashish-jabble&theme=radical)
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-jabble&layout=compact&theme=tokyonight" />
-</p>
-
+Today I work selectively on contract — see [Hire Me](#-hire-me) below for what I take on.
 
 ## 🛠 Tech & Skills
 
@@ -59,6 +40,19 @@ With over 15+ years in the software industry, I have navigated the full evolutio
 
 > [!NOTE]
 > Most of my work is private, so you can get to know me more by talking to [me](mailto:ashishjabble.cs@hotmail.com).
+
+### 🛠️ Fledge / IIoT — Paid Engagements
+
+Fledge is no longer actively maintained upstream, the published apt archive at `archives.fledge-iot.org` is offline, and teams running it in production often need outside help. After years on the codebase as a core contributor, I'm available on a **paid basis** for:
+
+- 🐛 Debugging build / install / runtime issues across OS and arch combinations (including embedded targets).
+- 🔌 Custom plugin development — south, north, filter, notification (C++ or Python).
+- 🐳 Deployment guidance — Docker, Kubernetes, Raspberry Pi, edge gateways.
+- 🔄 Migration — getting data, configurations, or workloads on or off Fledge.
+- 📞 One-off troubleshooting calls or short retainers for ongoing support.
+- 🎓 Onboarding / training for engineering teams picking up the codebase.
+
+Reach out to scope and price the engagement: 📧 [ashishjabble.cs@hotmail.com](mailto:ashishjabble.cs@hotmail.com)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-✓-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashish-jabble/)
